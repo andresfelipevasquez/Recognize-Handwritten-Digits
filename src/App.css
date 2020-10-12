@@ -1,5 +1,11 @@
 .canvas-container {
-  /* border: solid 1px red;
-  width: 500px;
+  /* border: solid 1px red; */
+  /* width: 500px;
+  height: 500px; */
+}
+
+.canvas-area {
+  border: solid 1px black;
+  /* width: 500px;
   height: 500px; */
 }
